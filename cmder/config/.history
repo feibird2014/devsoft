@@ -1,0 +1,1629 @@
+apm install atom-beautify
+git
+D:
+cd works\
+ls
+cd antd-admin-master\
+dir
+code .
+cd ..
+cnpm i antd-init -g
+mkdir foo && cd foo
+antd-init
+npm start
+apm install atom-beautify
+git
+D:
+cd antd-admin-master\
+cnpm i antd-init -g
+mkdir foo && cd foo
+antd-init
+d:
+cd works\
+cd foo\
+cd dva-quickstart\
+code .
+cd ..
+cd GoodERP_v11\
+cd siyue-erp\
+cd addons\
+cd siyue_react\
+cd static\
+rm -rf ./
+ls
+dva.cmd --h
+dva.cmd --help
+dva new web
+cd web\
+dir
+npm start
+code .
+cd GoodERP_v11\
+cd siyue-erp\
+cd addons\
+cd siyue_react\
+cd static\
+rm -rf ./
+ls
+dva.cmd --h
+dva.cmd --help
+dva new web
+cd web\
+npm start
+cd ..
+cd nginx-1.10.3\
+dir
+nginx.exe -s stop
+nginx.exe
+dva.cmd --h
+dva.cmd --help
+dva new web
+cd web\
+npm start
+cd C:\Users\jason\Documents\Tencent Files\2770491486\FileRecv\siyue-base
+code .
+cd D:\GoodERP_v11\siyue-erp\addons\siyue_react\static\web
+D:
+rm -r node_modules\.cache\babel-loader
+apm install atom-beautify
+cd ..
+cd antd-admin\
+dir
+cnpm i
+npm run dev
+apm install atom-beautify
+git
+D:
+cd works\
+ls
+cd antd-admin-master\
+dir
+code .
+cd ..
+cnpm i antd-init -g
+mkdir foo && cd foo
+antd-init
+npm start
+apm install atom-beautify
+git
+cd antd-admin-master\
+cnpm i antd-init -g
+mkdir foo && cd foo
+antd-init
+d:
+cd foo\
+cd dva-quickstart\
+rm -rf ./
+dva.cmd --h
+dva.cmd --help
+dva new web
+D:
+cd GoodERP_v11\
+cd addons\
+cd siyue_react\
+cd static\
+ls
+cd web\
+hf\GoodERP_v11
+cd D:\GoodERP_v11
+.\upgrade.bat 
+cd siyue-erp\
+git pull
+cd works\
+git clone https://github.com/bebraw/react-crm-frontend.git
+cd react-crm-frontend\
+cnpm install
+npm start
+cd ..
+npm install -g create-react-app
+npm install -g create-react-app yarn
+create-react-app antd-demo
+cd antd-demo\
+dir
+code .
+yarn add antd --save
+yarn start
+g
+f
+f 
+df
+apm install atom-beautify
+git
+D:
+cd works\
+ls
+cd antd-admin-master\
+dir
+code .
+cd ..
+cnpm i antd-init -g
+mkdir foo && cd foo
+antd-init
+npm start
+apm install atom-beautify
+git
+cd antd-admin-master\
+cnpm i antd-init -g
+mkdir foo && cd foo
+antd-init
+d:
+cd works\
+cd foo\
+cd dva-quickstart\
+cd GoodERP_v11\
+cd siyue-erp\
+cd addons\
+cd siyue_react\
+cd static\
+rm -rf ./
+dva.cmd --h
+dva.cmd --help
+dva new web
+cd web\
+D:
+cd GoodERP_v11\siyue-erp\addons\siyue_react\static\web\
+ls
+npm install antd babel-plugin-import --save
+cnpm install antd babel-plugin-import --save
+D:\GoodERP_v11\siyue-erp\addons\siyue_react\static\web
+cnpm install react-helmet --save
+cd ..\antd-admin\
+npm run build
+npm install react-cookie --save
+cd ..\web1
+DA:GoodERP_v11\siyue-erp\addons\siyue_react\static\web1F
+CD ..
+cnpm install antd --save
+cd antd-admin\
+cd web1
+cd web
+cnpm i react-cookie --save
+ping http://121.37.60.58/
+ping121.37.60.58
+pin 121.37.60.58
+ping 121.37.60.58
+cd ../../../
+git log
+git log -h
+git show 
+git show  -h
+git log --name-status
+q
+git log --autor
+git log --author
+git log --author a
+cd ..\..\works\
+git clone https://github.com/dvajs/dva-ast.git
+cd dva-ast\
+npm run debug
+cat npm-debug.log 
+vim npm-debug.log 
+npm bugs dva-ast
+git clone https://github.com/dvajs/dva.git
+cd dva
+cd ..
+git clone https://github.com/dvajs/dva-example-user-dashboard.git
+cd dva-example-user-dashboard\
+code .
+dir
+cnpm install
+npm install
+npm start
+cd addons\
+cd siyue_react\
+cd static\
+rm -rf ./
+ls
+dva.cmd --h
+dva.cmd --help
+dva new web
+cd web\
+dir
+npm start
+code .
+rm -rf ./
+dva.cmd --h
+dva.cmd --help
+dva new web
+cd web\
+npm start
+cd ..
+cd nginx-1.10.3\
+dir
+nginx.exe -s stop
+nginx.exe
+dva.cmd --h
+dva.cmd --help
+cd web\
+cd C:\Users\jason\Documents\Tencent Files\2770491486\FileRecv\siyue-base
+cd D:\GoodERP_v11\siyue-erp\addons\siyue_react\static\web
+rm -r node_modules\.cache\babel-loader
+apm install atom-beautify
+cd antd-admin\
+cnpm i
+npm run dev
+D:
+cd works\
+git clone git@116.62.4.238:odoo10
+cd odoo10\
+git remote add odoo https://github.com/odoo/odoo.git
+git pull odoo 10.0
+git remote -h
+git remote remove odoo
+git remote
+git -h
+git pull
+cd  ..
+cd G
+cd GoodERP_v11\
+cd siyue-erp\
+cd addons\
+cd siyue_react\
+ls
+cd static\
+rm -rf web
+dva new web
+cd web
+cd ..
+cd react\
+di
+cd siyue-base\
+code .
+dir
+cnpm install 
+d
+\GoodERP_v11\siyue-erp\react\siyue-base
+npm i
+D:\GoodERP_v11\siyue-erp\react\siyue-base
+npm start
+npm i
+D:\GoodERP_v11\siyue-erp\react\siyue-base
+D:
+cd GoodERP_v11\
+cd siyue-erp\
+cd re
+cd react\
+cd siyue-base\
+code .
+dir
+npm start
+D:
+cd works\
+dir
+cd dva-example-user-dashboard\
+code .
+ext install EditorConfig
+cd siyue-base\
+code .
+dir
+cnpm install 
+d
+\GoodERP_v11\siyue-erp\react\siyue-base
+npm i
+D:\GoodERP_v11\siyue-erp\react\siyue-base
+npm start
+npm i
+D:\GoodERP_v11\siyue-erp\react\siyue-base
+D:
+cd GoodERP_v11\
+cd siyue-erp\
+cd re
+cd siyue-base\
+code .
+dir
+cd dva-example-user-dashboard\
+ext install EditorConfig
+D:
+cd works\
+cd antd-admin-master\
+python
+git clone https://github.com/YuhangGe/react-antd-template.git
+cd react-antd-template\
+node --v8-options |grep harmony
+mkdir react_antd
+cd react_antd
+git clone https://github.com/react-redux-antd-es6/react.git
+cd react\
+cnpm install
+ls
+cd ..
+rm -rf antd-admin
+dva new antd-admin
+npm install
+cd antd-admin
+code .
+npm start
+cd ..\..\GoodERP_v11\
+dir
+cd re
+code .
+dir
+cd works\
+cd dva-example-user-dashboard\
+ext install EditorConfig
+D:
+cd GoodERP_v11\
+cd siyue-erp\
+cd react\
+cd siyue-base\
+npm start
+cd ..
+cd ../
+cd ..\works\
+cd React-Redux-Flask
+dir
+code .
+npm start
+cd ..\..\GoodERP_v11\
+dir
+cd re
+code .
+dir
+cd dva-example-user-dashboard\
+ext install EditorConfig
+cd GoodERP_v11\
+cd siyue-erp\
+cd react\
+cd siyue-base\
+npm start
+cd ../
+cd ..\works\
+cd React-Redux-Flask
+python aaa.py 
+python setup.py py2exe
+D:
+cd works\
+cd react-crm-frontend\
+ls
+cd news\
+dir
+cd antd-admin-master\
+code .
+cd ..
+cd myApp\
+dva g components Silder
+dva g component Silder
+dva g router 1-1
+dva g route 1-1
+dva g route 1-1
+python aaa.py 
+notepad aaa.py 
+ls
+notpad setup.py 
+notepad setup.py 
+cnpm install
+cd ..
+rm -rf antd-admin
+dva new antd-admin
+cd antd-admin
+code .
+npm start
+cd ..\..\GoodERP_v11\
+dir
+cd re
+code .
+dir
+cd dva-example-user-dashboard\
+ext install EditorConfig
+cd GoodERP_v11\
+cd siyue-erp\
+cd react\
+cd ../
+cd ..\works\
+cd React-Redux-Flask
+D:
+cd works\
+dva new myApp
+cd myApp\
+dva g route product-list
+dva g model products
+cnpm install ant --save
+\works\myAppD:\works\myApp
+cnpm install antd --save
+\works\myAppD:\works\myAppD:\works\myApp
+cd siyue-base\
+cd news\
+set NODE_ENV=production
+python -m SimpleHTTPServer 8080
+git clone https://github.com/alickzhang/react-f7-odoo.git
+ls
+cd react-f7-odoo\
+cnpm i
+npm install
+npm install -g create-react-app
+npm install -g react-scripts
+cnpm install -g react-scripts
+DIR
+cd ..
+cd dva-quickstart\
+dir
+code .
+npm start
+\works\dva-quickstart
+npm start
+npm i
+D:\GoodERP_v11\siyue-erp\react\siyue-base
+D:
+cd GoodERP_v11\
+cd siyue-erp\
+cd re
+cd siyue-base\
+code .
+dir
+cd dva-example-user-dashboard\
+ext install EditorConfig
+D:
+cd works\
+cd antd-admin-master\
+python
+git clone https://github.com/YuhangGe/react-antd-template.git
+cd react-antd-template\
+node --v8-options |grep harmony
+mkdir react_antd
+cd react_antd
+git clone https://github.com/react-redux-antd-es6/react.git
+cd react\
+cnpm install
+cd ..
+rm -rf antd-admin
+dva new antd-admin
+cd antd-admin
+code .
+npm start
+cd ..\..\GoodERP_v11\
+dir
+cd re
+code .
+dir
+cd dva-example-user-dashboard\
+ext install EditorConfig
+cd react\
+cd ../
+cd ..\works\
+cd React-Redux-Flask
+D:
+cd siyue-base\
+cd news\
+code .
+npm build
+webpack -p --config  webpack.dll.lib.js --progress 
+webpack -p --config  webpack.dll.config.js --progress 
+cnpm install --save whatwg-fetch
+NODE_ENV=development webpack --config  webpack.dll.config.js --progress
+webpack --config  webpack.dll.config.js --progress
+webpack -p
+cd GoodERP_v11\
+cd siyue-
+cd siyue-erp\
+cd react\siyue-base\
+ls
+cnpm i
+npm install
+npm start
+cd D:
+cd ..
+cd works\
+cd dva-quickstart\
+dir
+npm i react-native-odoo
+cd works\
+cd dva-quickstart\
+npm i react-native-odoo
+cd C:\Users\jason\.atom\packages
+C:
+cd atom-beautify\
+cd ..
+dir
+ls
+C:
+cd atom-beautify\
+cd ..
+D:
+cd GoodERP_v11\
+rm -rf siyue-base\
+cd siyue-erp\
+cd react\
+rm -rf siyue-base.\
+ls
+cd siyue-base\
+dir
+atom.cmd  .
+cd
+cd ../../../
+cd ..\works\
+git clone https://github.com/sorrycc/roadhog.git
+cd roadhog\
+atom .
+cd ..
+cd works\
+cd dva-quickstart\
+dir
+npm i react-native-odoo
+cd works\
+cd dva-quickstart\
+npm i react-native-odoo
+cd C:\Users\jason\.atom\packages
+C:
+cd atom-beautify\
+D:
+cd D:\works\dva-hpf\build
+python -m SimpleHttp
+python -m SimpleHttpServer
+cd dist\
+webpack --h
+cd build\
+python -m SimpleHTTPServer
+webpack -h
+cd ..
+cd GoodERP_v11\
+cd siyue-erp\
+cd react\
+ls
+cd siyue-base\
+atom .
+dir
+npm start
+cnpm install
+npm install
+cd siyue-base\
+npm start
+cnpm install
+npm install
+cs First.cs 
+D:
+cd works\
+cd antd-admin-master\
+dir
+atom .
+telnet 127.0.0.1 445
+netstat -an |grep 137
+netstat -an |grep 139
+netstat -an |grep 445
+cnpm install
+npm install
+atom .
+npm start
+cnpm install babel-polyfill --save
+npm run dev
+npm run dev
+D:
+cd works\
+dir
+cd antd-admin-master\
+atom .
+atom .
+npm run dev
+npm run dev
+D:
+cd works\
+cd antd-admin-master\
+git clone git@116.62.4.238:siyue-erp
+cd siyue-erp\
+cd react\
+cd siyue
+dir
+npm install -g yarn
+yarm install
+yarn install
+atom .
+yarm install less --save-dev
+yarn install less --save-dev
+yarn add less
+yarn add less --dev
+yarn add file-loader --dev
+npm start
+atom .
+npm start
+cnpm install babel-polyfill --save
+npm run dev
+npm run dev
+cd antd-admin-master\
+D:
+cd works\
+cd react
+cat README.md 
+cd ..
+cd react_antd
+cd react\
+dir
+atom .
+atom .
+atom .
+cnpm install babel-polyfill --save
+npm run dev
+atom .
+cd ..
+cd react\
+cd siyue
+dir
+git pull
+dir
+atom .
+npm start
+cd siyue
+dir
+git pull
+npm start
+atom .
+cd siyue_base\
+cd react\
+cnpm install
+npm install
+webpack --config webpack.build.js
+ls
+cd build
+dir
+python prepack.py 
+dir
+atom .
+atom .
+atom .
+cnpm install babel-polyfill --save
+npm run dev
+atom .
+dir
+git pull
+atom .
+cd react\
+cd ..
+cd siyue
+C\Users\jason\Desktop\tes
+dir
+npm start
+cd siyue
+C\Users\jason\Desktop\tes
+npm start
+cd ..
+atom .
+die
+dir
+sh webpack.bat 
+webpack -v
+atom .
+cd siyue
+C\Users\jason\Desktop\tes
+npm start
+cd react
+yarn install
+npm upgrade --global yarn
+yarn add less --dev
+yarn add file-loader --dev
+dir
+vim package.json 
+npm uninstall webpack -g
+npm install webpack@2.5.2 -g
+npm install webpack@2.5.1 -g
+webpack -v
+ls
+webpack --config webpack.build.js
+cmd
+ls
+webpack --config webpack.build.js
+cmd
+D:
+cd works\
+cd antd-demo\
+cd ..
+cd ant-design\
+cnpm install
+npm install
+npm start
+dir
+atom .
+npm run release
+npm test -- components/button/__test__/index.test.js
+npm test -- components\button\__tests__\index.test.js 
+pm run deploy
+npm run deploy
+npm run deploy
+cd user-dashboard\
+dir
+dva g route users
+dva g model users
+dva g component Users/Users
+cnpm i dva-loading --save
+yarn config get registry
+yarn config set registry https://registry.npm.taobao.org
+C\Users\jason\Desktop\tes
+cd react
+yarn install
+npm upgrade --global yarn
+yarn add less --dev
+yarn add file-loader --dev
+vim package.json 
+npm uninstall webpack -g
+npm install webpack@2.5.2 -g
+npm install webpack@2.5.1 -g
+webpack -v
+webpack --config webpack.build.js
+cmd
+git clone https://github.com/duxianwei520/react.git  
+cd react\
+dva -v
+cd test\
+dir
+dva new user-dashboard
+cd user-dashboard\
+cnpm i antd --save
+cnpm i babel-plugin-import --save-dev
+atom .
+er-d
+ser-dash
+r-dashboard
+cd src\
+ls
+vim index.js
+cd ..
+npm start
+atom .
+npm run deploy
+dir
+yarn start
+ls
+vim index.js
+npm start
+npm run deploy
+yarn start
+cd ..
+dir
+atom .
+rm -rf addons/siyue_base/react/yarn.lock
+rm -rf react/siyue/src/models/datasource.js
+rm -rf  react/siyue/yarn.lock
+git pull
+git status
+cd src\
+ls
+vim index.js
+cd ..
+npm start
+npm run deploy
+dir
+yarn start
+atom .
+dva --h
+dva -h
+ping http://www.gxeea.cn/
+pingwww.gxeea.cn
+ping www.gxeea.cn
+npm run deploy
+atom .
+dir
+yarn start
+git remote
+git remote -v
+git pull
+git status
+git log
+git log -p
+git status
+git log
+git log -p
+git branch
+git checkout datetime-ui
+git branch
+git checkout datetime-ui
+atom .
+git pull
+cd react\
+cd siyue
+dir
+atom .
+atom .
+git pull
+cd react\
+cd siyue
+dir
+yarn start
+\siyue
+git clone https://github.com/mutoulbj/AntDesignCascaderAddressData.git
+atom .
+atom .
+git pull
+cd siyue
+yarn start
+\siyue
+git clone https://github.com/mutoulbj/AntDesignCascaderAddressData.git
+cd addons\
+cd siyue_base\
+cd react\
+dir
+yarn i
+yarn install
+ls
+webpack --config webpack.build.js
+\siyue
+atom .
+cd react\
+cd siyue
+dir
+npm start
+cd react\
+cd siyue
+git clone https://github.com/cjohansen/react-sweeper.git
+cd react-sweeper\
+cd immutable-es6\
+dir
+yarn install
+mutable-es6
+atom .
+npm start
+npm start
+cd ..
+atom .
+atom .
+cd electron-v1.7.4-win32-x64\
+dir
+npm install -g electron
+yarn install
+webpack --config webpack.build.js
+\siyue
+atom .
+cd react\
+cd siyue
+dir
+npm start
+cd react\
+cd siyue
+git clone https://github.com/cjohansen/react-sweeper.git
+cd react-sweeper\
+cd immutable-es6\
+yarn install
+mutable-es6
+atom .
+npm start
+cd ..
+makdir desktopapp
+mkdir desktopapp
+cd desktopapp\
+npm init
+npm install --save-dev electron-prebuilt
+ls
+yarn add electron-prebuilt --dev
+atom .
+yarn start
+npm install
+cnpm iinstall
+dir
+cnpm i
+npm i
+esktopap
+npm start
+npm install -g electron
+ls
+electron.exe 
+cd ..
+atom .
+dir
+cd siyue-erp
+git pull
+git reset --hard origin/master
+npm start
+cd ..
+atom .
+cd react\
+dur
+cd siyue
+dir
+yarn start
+npm config
+npm config get registry
+npm config set registry https://registry.npm.taobao.org
+npm config set disturl https://npm.taobao.org/dist
+npm install -g react-native-cli
+react-native init AwesomeProject
+javac -version
+java
+java -version
+cd AwesomeProject\
+dir
+dir
+adb reverse tcp:8081 tcp:8081
+react-native init cheProject
+cd cheProject\
+react-native run-android
+cd cheProject\
+adb
+adb devices
+atom .
+react-native run-android
+java -version
+cd AwesomeProject\
+dir
+react-native run-android
+npm install antd-mobile --save
+npm install babel-plugin-import --save-dev
+adb
+adb devices
+atom .
+react-native run-android
+mongo
+npm install babel-plugin-import --save-dev
+adb
+adb devices
+react-native run-android
+atom .
+dir
+npm install
+npm start
+a79f021815be5059804570e0068a01ba
+react-native run-android
+git pull
+git status
+atom .
+cd react\
+cd siyue
+dir
+npm start
+atom .
+npm start
+atom .
+cd react\
+cd siyue
+npm start
+atom .
+npm start
+git clone https://github.com/YaokaiYang-assaultmaster/Python-Port-Scanner-Module
+cd Python-Port-Scanner-Module\
+python setup install
+python setup.py install
+cd ..
+dir
+python
+ls
+mkdir py_work
+cd py
+cd py_work\
+atom .
+python portscan.py 
+y
+atom .
+cd react\
+cd siyue
+dir
+yarn start
+atom .
+cnpm install
+npm start
+cd siyue
+dir
+atom .
+ashboar
+yarn start
+npm start
+npm start
+atom .
+python
+pip install odoorpc
+atom .
+code .
+code .
+git pull
+pip install odoorpc
+atom .
+cd ..
+dir
+code .
+python
+git clone https://github.com/thundernet8/StarCabinet.git
+cd StarCabinet\
+code .
+git clone https://github.com/EthanOrange/tv.git
+cd tv\
+atom .
+code .
+code .
+git pull
+git clone https://git.oschina.net/roncoocom/roncoo-pay.git
+ls
+cd roncoo-pay\
+dir
+atom .
+git clone https://git.oschina.net/roncoocom/roncoo-pay.git
+ls
+cd roncoo-pay\
+atom .
+cd addons\
+cd ..
+dir
+code .
+code .
+code .
+git pull
+pip install odoorpc
+atom .
+cd ..
+dir
+code .
+python
+git clone https://github.com/thundernet8/StarCabinet.git
+cd StarCabinet\
+code .
+git clone https://github.com/EthanOrange/tv.git
+cd tv\
+atom .
+code .
+git pull
+git clone https://git.oschina.net/roncoocom/roncoo-pay.git
+cd roncoo-pay\
+atom .
+mkdir wechat_public
+cd wechat_public\
+dir
+pip install werobot
+code .
+ls
+python hello.py 
+python hello.py 
+dir
+ D:\GoodERP_v11\winruntime\python\python.exe -m pip install werobot
+D:\GoodERP_v11\winruntime\python\python.exe hello.py 
+atom .
+python hello.py 
+npm start
+python hello.py 
+cd D:\GoodERP_v11\winruntime\python
+D:
+dir
+./python
+cd -
+.\python.exe 
+python hello.py 
+cd siyue-erp\addons\
+dir
+code .
+code .
+python -m SimpleHttpServer
+python -m SimpleHTTPServer
+python -m SimpleHTTPServer port 8002
+python -m SimpleHTTPServer 8002
+python -m SimpleHTTPServer
+python -m SimpleHTTPServer port 8002
+python -m SimpleHTTPServer 8002
+yarn start
+cra-kitche
+yarn run storybook
+yarn build-storybook
+cd ..
+git clone https://github.com/davidsonsns/storybook-antd.git
+cd storybook-antd\
+yarn i
+yarn install
+npm run storybook
+node -v
+code .
+code .
+python -m SimpleHTTPServer 8002
+cra-kitche
+yarn run storybook
+yarn build-storybook
+cd ..
+git clone https://github.com/davidsonsns/storybook-antd.git
+cd storybook-antd\
+yarn i
+yarn install
+npm run storybook
+node -v
+code .
+code .
+sheng_sitebisheng_site
+yarn add antd
+site
+isheng_site\bisheng_site
+\
+fng_site
+yarn start
+yarn install bisheng
+yarn add bisheng
+yarn add -D bisheng
+yarn add bisheng-theme-one
+atom .
+cd C:\Users\jason\Desktop
+dir
+C:\Users\jason\Anaconda2 -m pip install taTA_Lib-0.4.10-cp27-cp27m-win32.whl
+C:\Users\jason\Anaconda\python.exe -m pip installTA_Lib-0.4.10-cp27-cp27m-win32.whl
+C:\Users\jason\Anaconda\python.exe -m pip instal lTA_Lib-0.4.10-cp27-cp27m-win32.whl
+C:\Users\jason\Anacond2a\python.exe -m pip instal lTA_Lib-0.4.10-cp27-cp27m-win32.whl
+C:\Users\jason\Anacon22a\python.exe -m pip instal lTA_Lib-0.4.10-cp27-cp27m-win32.whl
+C:\Users\jason\Anaco2a\python.exe -m pip instal lTA_Lib-0.4.10-cp27-cp27m-win32.whl
+C:\Users\jason\Anaconda2\python.exe -m pip install TA_Lib-0.4.10-cp27*
+ls
+pip install *.whl
+pip install TA_Lib-0.4.10-cp27-cp27m-win32.whl
+code .
+sheng_sitebisheng_site
+yarn add antd
+site
+isheng_site\bisheng_site
+\
+fng_site
+yarn start
+yarn install bisheng
+yarn add bisheng
+yarn add -D bisheng
+yarn add bisheng-theme-one
+atom .
+ls
+C:\Users\jason\Anaconda2\python.exe -m pip install -r requirements.txt 
+cd C:\Users\jason\Desktop\vnpy-1.7C:\Users\jason\Desktop\vnpy-1.7
+cd C:\Users\jason\Desktop\vnpy-1.7
+C:\Users\jason\Anaconda2\python.exe setup.py install
+C:\Users\jason\Anaconda2\python.exe
+code .
+cd examples\
+cd VnTrader\
+dir
+C:\Users\jason\Anaconda2\python.exe run.py 
+C:\Users\jason\Anaconda2\python.exe
+cd examples\
+cd VnTrader\
+C:\Users\jason\Anaconda2\python.exe run.py 
+git clone https://github.com/BoostIO/Boostnote.git
+cd Boostnote\
+dir
+code .
+yarn install
+yarn start
+st\Boost
+yarn test
+yarn webpack
+npm install -g grunt
+yarn compile
+grunt pre-build
+ gitbook init   gitbook build 
+grunt pre-build
+ gitbook init   gitbook build 
+ls -a
+cd wu_xian_chong_dian_qi\
+cd .git\
+cd info\
+ls
+notepad sparse-checkout 
+cd examples\
+cd VnTrader\
+C:\Users\jason\Anaconda2\python.exe run.py 
+git clone https://github.com/BoostIO/Boostnote.git
+cd Boostnote\
+code .
+yarn install
+yarn start
+st\Boost
+yarn test
+yarn webpack
+npm install -g grunt
+yarn compile
+grunt pre-build
+ gitbook init   gitbook build 
+git config core.sparseCheckout true
+git pull origin master --allow-unrelated-histories
+git init aaa
+git init wu_xian_chong_dian_qi
+cd wu_xian_chong_dian_qi\
+ls -a
+git config core.sparsecheckout true 
+echo "siyue-erp/docs/无线充电器管理设计文档/*" >> .git/info/sparse-checkout
+git clone git@116.62.4.238:siyue-erp
+git remote add origin git@116.62.4.238:siyue-erp
+git pull origin master 
+dir
+cd .git\info\ 
+ls\
+notepad sparse-checkout 
+cd ..
+git pull
+ls
+git pull origin master
+ cd siyue-erp\
+code .
+atom .
+git clone git@116.62.4.238:siyue-erp/docs/siyue平台框架设计文档/
+git remote add origin git@github.com:feibird2014/mybook.git
+git push -u origin master
+code .
+git clone git@116.62.4.238:siyue-erp/docs/siyue平台框架设计文档/
+git remote add docs git@github.com:feibird2014/mybook.git
+git pull origin master
+git pull mirror master
+git pull docs master
+npm install gitbook-pdf -g
+dir
+cd docs\
+cd ..
+atom .
+git remote rm docs
+git remote -v
+git
+ls
+ssh
+ssh 116.62.4.238
+ssh 116.62.4.238 -l root
+git status
+git pull
+ssh 116.62.4.238 -l root
+cd react\
+cd siyue
+dir
+npm install yarn -g
+yarn start
+dir
+cd docs\
+cd ..
+atom .
+git remote rm docs
+git remote -v
+git
+ssh
+ssh 116.62.4.238
+ssh 116.62.4.238 -l root
+git clone https://github.com/evolus/pencil.git
+cd pencil\
+ls
+vim package.json 
+vim D:\git_src\pencil\node_modules\electron\install.js
+code .
+y
+yarn start
+yarn install
+node
+npm -v
+yarn install
+node
+npm -v
+cd ..\odoo10\
+code .
+cd ..
+cd siyue-erp\
+dir
+git-gui.exe 
+git pull
+code .
+cd react\siyue
+dir
+yarn start
+y
+git-gui.exe 
+npm -v
+cd ..\odoo10\
+code .
+cd siyue-erp\
+dir
+git-gui.exe 
+git pull
+cd react\siyue
+yarn start
+y
+create_react_app
+npm install -g create-react-app
+npm install -g cnpm
+rm -rf npm-debug.log 
+npm install -g cnpm --registry=https://registry.npm.taobao.org
+cnpm config list
+cnpm install -g create-react-app
+git clone git clone https://github.com/wuyanwen/dianpinPlus
+git clone https://github.com/wuyanwen/dianpinPlus
+cd dianpinPlus\
+node -v
+cd ..
+git clone https://github.com/evolify/react-mobx-ts-antd.git
+cd react-mobx-ts-antd\
+dir
+yarn install
+yarn run dev
+yarn add @types/ev-ui
+rm -rf yarn.lock 
+rm -rf node_modules\
+ls
+cnpm install
+npm run dev
+code .
+yarn install
+node
+npm -v
+yarn install
+node
+npm -v
+cd ..\odoo10\
+code .
+cd siyue-erp\
+dir
+yarn start
+y
+code .
+cd react\siyue
+dir
+yarn --h
+yarn config
+yarn config set registry http://registry.npm.taobao.org
+yarn config list
+yarn help
+ls
+yarn a
+yarn remove antd
+yarn add antd
+cd ..
+git pull
+git-gui.exe 
+yarn install
+node
+npm -v
+cd ..\odoo10\
+code .
+cd ..
+cd siyue-erp\
+dir
+code .
+y
+cd react\siyue
+dir
+ls
+git pull
+git-gui.exe 
+yarn start
+yarn start
+git clone https://github.com/BoostIO/Boostnote.git
+cd Boostnote\
+code .
+yarn start
+git-gui.exe 
+git clone https://github.com/BoostIO/Boostnote.git
+cd Boostnote\
+code .
+cd react\siyue
+u1\siyue
+yarn start
+git-gui.exe 
+java
+java
+javac
+u1\siyue
+yarn start
+git-gui.exe 
+cnpm install -g react-native-cli
+react-native init
+cd ..
+ls
+rm -rf siyue-mobile-client\
+react-native init siyue-mobile-client
+react-native init siyue_mobile_client
+cd siyue_mobile_client\
+react-native run-android
+git-gui.exe 
+react-native run-android
+code .
+cd react\
+cd siyue
+yarn start
+dERP_v1
+code .
+adb
+dERP_v1
+react-native run-android
+react-native run-android
+adb
+adb 
+adb
+adb
+dERP_v1
+react-native run-android
+react-native run-android
+adb
+adb 
+adb devices
+adb
+adb reconnet device
+adb reconnect
+adb reconnect device
+adb shell
+netstat -ano |findstr "5037"
+adb shell
+react-native run-android
+code .
+D:\Android\sdk\emulator
+ative run-android
+adb
+adb 
+adb devices
+adb
+adb reconnet device
+adb reconnect
+adb reconnect device
+adb shell
+netstat -ano |findstr "5037"
+adb shell
+react-native run-android
+cd D:\Android\sdk\emulator
+cd D:\Android\sdk\tools
+.\emulator
+.\android.bat 
+avdmanager.bat list target
+avdmanager.bat create avd --name a29 --target 29
+avdmanager.bat create avd --name a29 --tar 29
+avdmanager.bat create avd --name a29 --tag 29
+avdmanager.bat create avd --name a29 -k 29
+avdmanager.bat create avd --name a25 -k system-images;android-25;google_apis;x86
+avdmanager.bat create avd --name a25 -k'system-images;android-25;google_apis;x86'
+avdmanager.bat create avd --name a25 - k'system-images;android-25;google_apis;x86'
+avdmanager.bat create avd -n a25 -k ' system-images;android-25;google_apis;x86'
+avdmanager.bat create avd -n a25 -k ' system-images;android-25;google_apis;x86
+avdmanager.bat create avd -n a25 -k 'system-images;android-25;google_apis;x86'
+avdmanager.bat create avd -n a25 -k 'system-images;android-25;google_apis;x86' -p D://v_android
+avdmanager.bat create avd -n a25 -k system-images;android-25;google_apis;x86 -p D://v_android
+android.bat create avd --name a25 --target 25
+cd bing
+cd bin
+.\sdkmanager.bat 
+avdmanager.bat kust device
+avdmanager.bat list device
+avdmanager.bat
+avdmanager.bat list create avd 
+avdmanager.bat create avd 
+avdmanager.bat create avd -n a25
+avdmanager.bat create avd -n a25 -k 1231
+avdmanager.bat create avd -n a25 -k system-images;android-24;google_apis;x86_64
+avdmanager.bat create avd -n a25 -k system-images;android-24;google_apis;x86_64 -tag system-images;android-24;google_apis;x86_64
+avdmanager.bat create avd -n a25 -k system-images;android-24;google_apis;x86_64 --tag system-images;android-24;google_apis;x86_64
+avdmanager.bat create avd -n a25 -k system-images;android-24;google_apis;x86_64 --tag google_apis
+avdmanager.bat list avd
+dir
+cd ..
+emulator.exe 
+emulator.exe -avd a25
+cd bin\
+ls
+avdmanager.bat 
+avdmanager.bat  delete avd a25
+avdmanager.bat  delete avd -n a25
+adb
+adb shell
+code .
+avdmanager.bat  delete avd a25
+avdmanager.bat  delete avd -n a25
+adb
+adb devices
+adb shell
+conda install scipy
+python
+adb shell
+conda install scipy
+python
+git-gui
+cd siyue-erp-eslint\
+git pull
+cd ..
+cd siyue-erp
+dir
+git-gui.exe 
+avdmanager.bat create avd -n a25 -k system-images;android-24;google_apis;x86_64 --tag google_apis
+avdmanager.bat list avd
+emulator.exe 
+emulator.exe -avd a25
+cd bin\
+ls
+avdmanager.bat 
+avdmanager.bat  delete avd a25
+avdmanager.bat  delete avd -n a25
+adb
+adb shell
+avdmanager.bat  delete avd a25
+avdmanager.bat  delete avd -n a25
+adb
+adb devices
+adb shell
+conda install scipy
+python
+cd react\siyue
+dir
+yarn add eslint eslint-config-standard eslint-config-standard-js xeslint-plugin-react --dev
+yarn add eslint eslint-config-standard eslint-config-standard-jsx eslint-plugin-react --dev
+npm install -g eslint-plugin-import
+yarn add eslint-plugin-node --dev
+yarn add eslint-plugin-promise --dev
+yarn add eslint-plugin-react --dev
+yarn add eslint@3.13.1
+yarn remove eslint-config-standard
+yarn remove eslint
+yarn remove eslint-config-standard eslint-plugin-import eslint-plugin-node eslint-plugin-react
+yarn remove eslint-config-standard-jsx eslint-plugin-promise
+yarn add eslint-plugin-react@7.2.0 --dev
+yarn add eslint@3.13.1 --dev
+yarn add eslint-config-standard --dev
+yarn add eslint-config-standard@6.2.1 --dev
+yarn add eslint-config-standard-jsx --dev
+yarn add eslint-config-standard-jsx@3.2.0 --dev
+yarn add eslint-plugin-standard --dev
+yarn remove eslint-plugin-standard
+yarn add standard@8.4.0 --dev
+yarn remove standard --dev
+yarn update eslint
+yarn -h
+yarn upgrade eslint
+yarn upgrade eslint@laster
+yarn upgrade-interactive elint@latest --dev
+yarn upgrade --latest
+yarn upgrade eslint --latest
+yarn upgrade-interactive eslint --latest
+yarn upgrade-interactive eslint-config-standard --latest
+yarn add eslint-plugin-import --dev
+yarn add eslint-plugin-node eslint-plugin-promise eslint-plugin-standard --dev
+code .
+cd ..
+git pull
+git.gui
+git-gui
+code .
+cd react\siyue
+dir
+ls
+yarn start
+adb
+adb devices
+adb shell
+conda install scipy
+python
+git clone git@github.com:TryGhost/Ghost.git
+cd Ghost\
+yarn install
+cd ..
+ls
+cd Boostnote\
+dir
+code .
+code .
+git-gui.exe 
+ls
+cd Boostnote\
+git pull
+cd react\siyue
+dir
+yarn remove eslint-config-standard eslint-config-standard-jsx eslint-plugin-standard
+yarn remove eslint-plugin-node eslint-plugin-promise
+yarn add eslint --dev
+yarn add eslint-plugin-import eslint-plugin-react --dev
+yarn add eslint-config-airbnb  eslint-plugin-jsx-a11y --dev
+code .
+eslint.cmd  src\dev.js 
+eslint.cmd -h
+eslint.cmd --print-config
+eslint.cmd 
+eslint.cmd -c .eslintrc src\dev.js 
+eslint.cmd
+.\node_modules\eslint\bin\eslint.js src\dev.js 
+node .\node_modules\eslint\bin\eslint.js src\dev.js 
+git-gui.exe 
+node .\node_modules\eslint\bin\eslint.js src\dev.js 
+cd react\siyue
+code .
+git-gui.exe 
+git-gui.exe 
+code .
+choco
+cinst
+doskey
+doskey /?
+doskey /?
+code
+history
+pwd
+cd
+cls
+cd $CMDER_ROOT
+cd $CMDER_ROOT/vendor
+echo 
+echo source
+code
+code .
+code .
+cd $CMDER_ROOT
+cd $CMDER_ROOT/vendor
+echo 
+echo source
+code
+git clone git@github.com:feibird2014/devsoft.git
+cd devsoft\
+git clone git@github.com:cmderdev/cmder.git
+ls
+cd cmder\
+\git pull
+git pull
+code .
+dir
